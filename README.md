@@ -14,7 +14,7 @@
    ```
    
 4. **test fixtures**
-   eredivisie.json in the root folder is the test fixtures. the python has been written to incorporate the data and export the predictions per each of the feature.
+   eredivisie.json in the root folder is the test fixtures. the python has been written to incorporate the data and export the predictions per each of the fixture.
 
    run the pred_one.python to see
 
