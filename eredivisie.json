@@ -1,0 +1,960 @@
+[
+    {
+        "fixture": "Almere City vs Nijmegen",
+        "league": "🇳🇱 Eredivisie",
+        "position": [12,9],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Bos A.",
+          "fouls_per_tackle": 0.65,
+          "yellow_per_game": 2.69
+        },
+       
+        "head_to_head": {
+             "win_form": [["L","D","L","L","W"],["W","D","W","W","L"]],
+            "corner_form": [["L","L","L","W","L"],["W","W","W","L","W"]],
+            "teams": {
+                "match_one": [
+                    "Almere City",
+                    "Nijmegen"
+                ],
+                "match_two": [
+                    "Nijmegen",
+                    "Almere City"
+                ],
+                "match_three": [
+                    "Almere City",
+                    "Nijmegen"
+                ],
+                "match_four": [
+                    "Almere City",
+                    "Nijmegen"
+                ],
+                "match_five": [
+                    "Almere City",
+                    "Nijmegen"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    1,
+                    4
+                ],
+                "match_two": [1,1],
+                "match_three": [
+                    0,
+                    4
+                ],
+                "match_four": [
+                    0,
+                    4
+                ],
+                "match_five": [
+                    2,
+                    0
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    0.79,
+                    2.48
+                ],
+                "match_two": [
+                    1.25,
+                    0.95
+                ],
+                "match_three": [],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    6,
+                    7
+                ],
+                "match_two": [
+                    6,
+                    5
+                ],
+                "match_three": [
+                    3,
+                    5
+                ],
+                "match_four": [
+                    5,
+                    4
+                ],
+                "match_five": [
+                    7,
+                    9
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    13,
+                    9
+                ],
+                "match_two": [
+                    11,
+                    19
+                ],
+                "match_three": [
+                    23,
+                    10
+                ],
+                "match_four": [
+                    13,
+                    7
+                ],
+                "match_five": [
+                    21,
+                    14
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    1,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    1
+                ],
+                "match_three": [
+                    1,
+                    0
+                ],
+                "match_four": [
+                    1,
+                    0
+                ],
+                "match_five": [
+                    1,
+                    1
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    1,
+                    0
+                ],
+                "match_two": [
+                    3,
+                    2
+                ],
+                "match_three": [
+                    1,
+                    0
+                ],
+                "match_four": [
+                    1,
+                    0
+                ],
+                "match_five": [
+                    1,
+                    2
+                ]
+            }
+        },
+        "home_team" : {
+            "name": "Almere City",
+          "coach": "Hedwiges Maduro",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/almere.png",
+          "playing_style": "Long balls, Wide play",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the left",
+          "defensive_style": "Aggressive",
+          "aggressive_players": ["Peer Koopmeiners","Stije Resink","Damian van Bruggen","Sherel Floranus","Joey Jacobs","Rajiv van La Parra","Hamdi Akujobi"],
+          "provocative_players": ["Rajiv van La Parra"],
+           "win_form": [["D","L","L","L","D","D","L"]],
+            "corner_form": [["L","W","W","W","L","W","L"]],
+          "recent_matches": {
+             "teams": {
+              "match_three": ["Sparta Rotterdam","Almere City"],
+              "match_four": ["Almere City","Willem 11"],
+              "match_five": ["Zwolle","Almere City"],
+            "match_six": ["Almere City","Twente"],
+              "match_seven":["Heracles","Almere City"],
+            "match_one": ["Almere City","Groningen"],
+            "match_two": ["Almere City","PSV"]
+          },
+            
+          "goals": {
+            "match_three": [2,2],
+            "match_four": [0,1],
+            "match_five": [1,0],
+            "match_six": [0,5],
+            "match_seven":[0,0],
+              "match_one": [1,1],
+              "match_two": [1,7]
+            },
+            "x_goals": {
+              "match_three": [2.07,0.94],
+              "match_four": [1.60,0.41],
+              "match_five": [1.66,1.22],
+              "match_six": [1.61,1.20],
+              "match_seven":[2.15,0.78],
+              "match_one": [1.16,0.56],
+              "match_two": [0.26,3.39]
+            },
+            "corners": {
+              "match_three": [5,3],
+              "match_four": [6,5],
+              "match_five": [6,8],
+              "match_six": [7,5],
+              "match_seven":[10,2],
+              "match_one": [6,4],
+              "match_two": [1,9]
+            },
+            "fouls": {
+              "match_three": [6,12],
+              "match_four": [9,13],
+              "match_five": [10,13],
+              "match_six": [9,5],
+              "match_seven":[9,8],
+              "match_one": [9,14],
+              "match_two": [10,6]
+            },
+            "HT_cards": {
+              "match_three": [1,1],
+              "match_four": [0,0],
+              "match_five": [0,0],
+              "match_six": [1,1],
+              "match_seven":[1,1],
+              "match_one": [1,0],
+              "match_two": [0,1]
+            },
+            "FT_cards": {
+              "match_three": [3,3],
+              "match_four": [1,3],
+              "match_five": [2,4],
+              "match_six": [1,1],
+              "match_seven":[1,2],
+              "match_one": [1,2],
+              "match_two": [1,1]
+            }
+          }
+            
+          
+          },
+        "away_team": {
+            "name": "Nijmegen",
+          "coach": "Rogier Meijer",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/nijmegen.png",
+          "playing_style": "High crossing frequency",
+          "pressing_style": " ",
+          "attacking_style": "Take long shots",
+          "defensive_style": "Non-aggressive",
+          "aggressive_players": [" "],
+          "provocative_players": ["Magnus Mattsson","Rober","Kodai Sano"],
+          "win_form": [["W","L","D","L","L","W","W"]],
+            "corner_form": [["D","L","L","W","L","W","W"]],
+          "recent_matches": {
+            "teams": {
+              "match_three": ["Nijmegen","Heerenveen"],
+              "match_four": ["NAC Breda","Nijmegen"],
+              "match_five": ["Nijmegen","Feyenoord"],
+              "match_six": ["Nijmegen","Heracles"],
+              "match_seven": ["PSV","Nijmegen"],
+            "match_one": ["Sittard Sittard","Nijmegen"],
+            "match_two": ["Nijmegen","Zwolle"]
+          },
+            
+          "goals": {
+            "match_three": [3,0],
+            "match_four": [1,0],
+            "match_five": [1,1],
+            "match_six": [1,2],
+            "match_seven": [2,0],
+              "match_one": [0,3],
+              "match_two": [1,0]
+            },
+            "x_goals": {
+              "match_three": [1.57,0.34],
+              "match_four": [1.46,0.63],
+              "match_five": [0.77,1.54],
+              "match_six": [1.11,1.23],
+              "match_seven": [1.72,0.09],
+              "match_one": [0.88,1.25],
+              "match_two": [1.89,0.49]
+            },
+            "corners": {
+              "match_three": [4,4],
+              "match_four": [8,3],
+              "match_five": [3,9],
+              "match_six": [7,3],
+              "match_seven": [15,3],
+              "match_one": [4,5],
+              "match_two": [6,2]
+            },
+            "fouls": {
+              "match_three": [17,17],
+              "match_four": [12,8],
+              "match_five": [9,12],
+              "match_six": [16,15],
+              "match_seven": [9,5],
+              "match_one": [11,5],
+              "match_two": [8,13]
+            },
+            "HT_cards": {
+              "match_three": [0,0],
+              "match_four": [0,1],
+              "match_five": [0,1],
+              "match_six": [1,2],
+              "match_seven": [0,1],
+              "match_one": [0,0],
+              "match_two": [0,2]
+            },
+            "FT_cards": {
+              "match_three": [0,3],
+              "match_four": [3,1],
+              "match_five": [1,1],
+              "match_six": [3,4],
+              "match_seven": [0,1],
+              "match_one": [1,0],
+              "match_two": [1,4]
+            }
+          } 
+          
+          
+          }
+    },
+
+    {
+        "fixture": "Sittard vs Groningen",
+        "league": "🇳🇱 Eredivisie",
+        "position": [15,13],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Blank E.",
+          "fouls_per_tackle": 0.66,
+          "yellow_per_game": 3.30
+        },
+        "head_to_head": {
+            "win_form": [["L","W","W","W","L"],["W","L","L","L","W"]],
+            "corner_form": [["W","L","W","L","L"],["L","W","L","W","W"]],
+            "teams": {
+                "match_one": [
+                    "Groningen",
+                    "Sittard"
+                ],
+                "match_two": [
+                    "Sittard",
+                    "Groningen"
+                ],
+                "match_three": [
+                    "Groningen",
+                    "Sittard"
+                ],
+                "match_four": [
+                    "Groningen",
+                    "Sittard"
+                ],
+                "match_five": [
+                    "Sittard",
+                    "Groningen"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    1,
+                    0
+                ],
+                "match_two": [
+                    3,
+                    1
+                ],
+                "match_three": [
+                    2,
+                    3
+                ],
+                "match_four": [
+                    0,
+                    1
+                ],
+                "match_five": [
+                    1,
+                    4
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    0.44,
+                    0.89
+                ],
+                "match_two": [
+                    1.03,
+                    1.45
+                ],
+                "match_three": [],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    2,
+                    9
+                ],
+                "match_two": [
+                    3,
+                    9
+                ],
+                "match_three": [
+                    4,
+                    5
+                ],
+                "match_four": [
+                    7,
+                    5
+                ],
+                "match_five": [
+                    1,
+                    2
+                ]
+            },
+            "fouls": {
+                "match_one": [],
+                "match_two": [
+                    11,
+                    7
+                ],
+                "match_three": [
+                    6,
+                    6
+                ],
+                "match_four": [
+                    6,
+                    10
+                ],
+                "match_five": [
+                    9,
+                    10
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    0
+                ],
+                "match_three": [
+                    0,
+                    1
+                ],
+                "match_four": [
+                    0,
+                    0
+                ],
+                "match_five": [
+                    0,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [0,0],
+                "match_two": [
+                    1,
+                    0
+                ],
+                "match_three": [
+                    2,
+                    3
+                ],
+                "match_four": [
+                    2,
+                    1
+                ],
+                "match_five": [
+                    1,
+                    1
+                ]
+            }
+        },
+        "home_team" : {
+            "name": "Fortuna Sittard",
+            "coach": "Danny Buijs",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/sittard.png",
+            "playing_style": "Long balls, High crossing frequency, Wide play",
+            "pressing_style": " ",
+            "attacking_style": "High shot volume, Attack through the middle, Take long shots",
+            "defensive_style": " ",
+            "aggressive_players": ["Loreintz Rosier","Mitchell Dijks","Rodrigo Guth"],
+            "provocative_players": ["Iñigo Córdoba"],
+            "win_form": [["D","W","D","L","L","L","L"]],
+            "corner_form": [["W","L","L","L","L","W","L"]],
+            "recent_matches": {
+               "teams": {
+                "match_two": ["Willem II","Sittard"],
+                "match_three": ["Sittard","AZ Alkmaar"],
+                "match_four": ["Sparta Rotterdam","Sittard"],
+                "match_five": ["Sittard","PSV"],
+                "match_six": ["Ajax","Sittard"],
+                "match_seven": ["NAC Breda","Sittard"],
+              "match_one": ["Sittard","NEC"]
+            },
+              
+            "goals": {
+              "match_two": [0,0],
+              "match_three": [1,0],
+              "match_four": [1,1],
+              "match_five": [1,3],
+              "match_six": [5,0],
+              "match_seven": [1,0],
+                "match_one": [0,3]
+              },
+              "x_goals": {
+                "match_two": [0.85,2.06],
+                "match_three": [1.80,0.90],
+                "match_four": [1.56,0.96],
+                "match_five": [0.38,1.47],
+                "match_six": [3.45,0.09],
+                "match_seven": [0.65,0.60],
+                "match_one": [0.88,1.25]
+              },
+              "corners": {
+                "match_two": [2,10],
+                "match_three": [2,5],
+                "match_four": [9,5],
+                "match_five": [5,6],
+                "match_six": [15,0],
+                "match_seven": [3,8],
+                "match_one": [4,5]
+              },
+              "fouls": {
+                "match_two": [11,11],
+                "match_three": [11,9],
+                "match_four": [12,9],
+                "match_five": [10,11],
+                "match_six": [8,6],
+                "match_seven": [11,9],
+                "match_one": [11,5]
+              },
+              "HT_cards": {
+                "match_two": [1,1],
+                "match_three": [2,1],
+                "match_four": [0,0],
+                "match_five": [1,0],
+                "match_six": [0,2],
+                "match_seven": [0,0],
+                "match_one": [0,0]
+              },
+              "FT_cards": {
+                "match_two": [1,1],
+                "match_three": [4,2],
+                "match_four": [1,2],
+                "match_five": [3,1],
+                "match_six": [0,2],
+                "match_seven": [2,1],
+                "match_one": [1,0]
+              }
+            }
+           
+          
+          },
+        "away_team": {
+            "name": "Groningen",
+        "coach": "Dick Lukkien",
+        "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/groningen.png",
+        "playing_style": "Ball retention, Control the game in the opposition's half, Opponents play aggressively against them",
+        "pressing_style": " ",
+        "attacking_style": "Attacking down the left, Take long shots",
+        "defensive_style": "High Line; Use offside positioning",
+        "aggressive_players": [" "],
+        "provocative_players": [" "],
+        "win_form": [["L","L","L","L","D","D","D"]],
+          "corner_form": [["L","L","D","L","L","L","L"]],
+        "recent_matches": {
+           "teams": {
+            "match_three": ["Groningen","Utrecht"],
+            "match_four": ["Ajax","Groningen"],
+            "match_five": ["Groningen","Eagles"],
+            "match_six": ["Heerenveen","Groningen"],
+            "match_seven": ["Groningen","Feyenoord"],
+          "match_one": ["Almere city","Groningen"],
+          "match_two": ["Groningen","AZ_Alkmaar"]
+        },
+        "goals": {
+          "match_three": [0,1],
+          "match_four": [3,1],
+          "match_five": [0,1],
+          "match_six": [2,1],
+          "match_seven": [2,2],
+            "match_one": [1,1],
+            "match_two": [0,0]
+          },
+          "x_goals": {
+            "match_three": [0.57,0.51],
+            "match_four": [3.81,1.14],
+            "match_five": [0.49,2.55],
+            "match_six": [1.88,0.21],
+            "match_seven": [0.95,1.37],
+            "match_one": [1.16,0.56],
+            "match_two": [0.10,0.96]
+          },
+          "corners": {
+            "match_three": [4,5],
+            "match_four": [5,2],
+            "match_five": [7,7],
+            "match_six": [9,3],
+            "match_seven": [5,6],
+            "match_one": [6,4],
+            "match_two": [2,6]
+          },
+          "fouls": {
+            "match_three": [9,17],
+            "match_four": [8,10],
+            "match_five": [11,11],
+            "match_six": [11,9],
+            "match_seven": [12,13],
+            "match_one": [9,14],
+            "match_two": [14,13]
+          },
+          "HT_cards": {
+            "match_three": [0,1],
+            "match_four": [0,1],
+            "match_five": [1,1],
+            "match_six": [0,0],
+            "match_seven": [2,1],
+            "match_one": [1,0],
+            "match_two": [2,1]
+          },
+          "FT_cards": {
+            "match_three": [2,4],
+            "match_four": [3,2],
+            "match_five": [2,3],
+            "match_six": [1,5],
+            "match_seven": [3,2],
+            "match_one": [1,2],
+            "match_two": [3,1]
+          }
+        }
+           
+          
+          }
+    },
+    {
+        "fixture": "PSV vs Zwolle",
+        "league": "🇳🇱 Eredivisie",
+        "position": [1,7],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "van der Eijk S.",
+          "fouls_per_tackle": 0.59,
+          "yellow_per_game": 3.38
+        },
+        "head_to_head": {
+            "win_form": [["W","W","W","W","W"],["L","L","L","L","L"]],
+            "corner_form": [["W","W","L","W","W"],["L","L","W","L","L"]],
+            "teams": {
+                "match_one": [
+                    "Zwolle",
+                    "PSV"
+                ],
+                "match_two": [
+                    "PSV",
+                    "Zwolle"
+                ],
+                "match_three": [
+                    "Zwolle",
+                    "PSV"
+                ],
+                "match_four": [
+                    "PSV",
+                    "Zwolle"
+                ],
+                "match_five": [
+                    "PSV",
+                    "Zwolle"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    1,
+                    7
+                ],
+                "match_two": [
+                    4,
+                    0
+                ],
+                "match_three": [
+                    1,
+                    2
+                ],
+                "match_four": [
+                    3,
+                    1
+                ],
+                "match_five": [
+                    4,
+                    2
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    0.39,
+                    3.57
+                ],
+                "match_two": [
+                    1.74,
+                    0.22
+                ],
+                "match_three": [],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    3,
+                    7
+                ],
+                "match_two": [
+                    12,
+                    0
+                ],
+                "match_three": [
+                    9,
+                    4
+                ],
+                "match_four": [
+                    7,
+                    2
+                ],
+                "match_five": [
+                    6,
+                    5
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    7,
+                    8
+                ],
+                "match_two": [
+                    7,
+                    8
+                ],
+                "match_three": [
+                    6,
+                    2
+                ],
+                "match_four": [
+                    8,
+                    16
+                ],
+                "match_five": [
+                    7,
+                    11
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    0,
+                    2
+                ],
+                "match_three": [
+                    0,
+                    0
+                ],
+                "match_four": [
+                    0,
+                    0
+                ],
+                "match_five": [
+                    0,
+                    1
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    2,
+                    0
+                ],
+                "match_two": [
+                    0,
+                    2
+                ],
+                "match_three": [
+                    1,
+                    0
+                ],
+                "match_four": [
+                    1,
+                    3
+                ],
+                "match_five": [
+                    0,
+                    3
+                ]
+            }
+        },
+        "home_team" : {
+            "name": "PSV",
+        "coach": "Peter Bosz",
+        "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/psv.png",
+        "playing_style": "Ball retention, Control the game in the opposition's half, Short passes",
+        "pressing_style": " ",
+        "attacking_style": "Attack through the middle, Attacking down the right, Frequent through ball attempts",
+        "defensive_style": "Non-aggressive",
+        "aggressive_players": [" "],
+        "provocative_players": ["Malik Tillman"],
+       "win_form": [["W","W","W","W","W","W","W"]],
+            "corner_form": [["W","L","W","W","W","W","W"]],
+        "recent_matches": {
+        "teams": {
+          "match_three": ["AZ Alkmaar","PSV"],
+          "match_four": ["PSV","Sparta Rotterdam"],
+          "match_five": ["Willem II","PSV"],
+        "match_six": ["Sittard Sittard","PSV"],
+        "match_seven": ["PSV","Nijmegen"],
+        "match_one": ["PSV","GA Eagles"],
+        "match_two": ["Almere City","PSV"]
+        },
+        "goals": {
+          "match_three": [1,2],
+          "match_four": [2,1],
+          "match_five": [0,2],
+        "match_six": [1,3],
+        "match_seven": [2,0],
+        "match_one": [3,0],
+        "match_two": [1,7]
+        },
+        "x_goals": {
+          "match_three": [0.34,1.73],
+          "match_four": [1.60,1.95],
+          "match_five": [0.86,1.58],
+        "match_six": [0.38,1.47],
+        "match_seven": [1.72,0.09],
+        "match_one": [2.69,1.17],
+        "match_two": [0.26,3.39]
+        },
+        "corners": {
+          "match_three": [0,3],
+          "match_four": [3,8],
+          "match_five": [3,6],
+        "match_six": [5,6],
+        "match_seven": [15,3],
+        "match_one": [5,3],
+        "match_two": [1,9]
+        },
+        "fouls": {
+          "match_three": [5,11],
+          "match_four": [3,5],
+          "match_five": [11,9],
+        "match_six": [10,11],
+        "match_seven": [9,5],
+        "match_one": [8,7],
+        "match_two": [10,6]
+        },
+        "HT_cards": {
+          "match_three": [1,0],
+          "match_four": [0,0],
+          "match_five": [1,1],
+        "match_six": [1,0],
+        "match_seven": [0,1],
+        "match_one": [0,0],
+        "match_two": [0,1]
+        },
+        "FT_cards": {
+          "match_three": [1,0],
+          "match_four": [1,2],
+          "match_five": [1,2],
+        "match_six": [3,1],
+        "match_seven": [0,1],
+        "match_one": [0,3],
+        "match_two": [1,1]
+        }
+        }
+        
+          
+          },
+        "away_team": {
+            "name": "Zwolle",
+          "coach": "Johnny Jansen",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/zwolle.png",
+          "playing_style": "Deep positioning",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the right",
+          "defensive_style": "High Line; Use offside positioning, Aggressive",
+          "aggressive_players": ["Davy van den Berg","Anouar El Azzouzi","Anselmo MacNulty","Bram van Polen"],
+          "provocative_players": [" "],
+          "win_form": [["L","D","W","L","D","W","L"]],
+            "corner_form": [["W","L","L","W","L","D","L"]],
+          "recent_matches": {
+             "teams": {
+              "match_three": ["Zwolle","NAC Breda"],
+              "match_four": ["Heerenveen","Zwolle"],
+              "match_five": ["Zwolle","Almere City"],
+              "match_six": ["Zwolle","AZ Alkmaar"],
+              "match_seven": ["Twente","Zwolle"],
+            "match_one": ["Zwolle","Heracles"],
+            "match_two": ["NEC","Zwolle"]
+          },
+          
+          "goals": {
+            "match_three": [1,2],
+            "match_four": [1,1],
+            "match_five": [1,0],
+            "match_six": [1,2],
+            "match_seven": [1,1],
+              "match_one": [3,0],
+              "match_two": [1,0]
+            },
+            "x_goals": {
+              "match_three": [0.71,2.15],
+              "match_four": [1.40,0.60],
+              "match_five": [1.66,1.22],
+              "match_six": [1.69,1.44],
+              "match_seven": [1.39,0.41],
+              "match_one": [2.42,0.60],
+              "match_two": [1.89,0.49]
+            },
+            "corners": {
+              "match_three": [7,4],
+              "match_four": [8,2],
+              "match_five": [6,8],
+              "match_six": [10,9],
+              "match_seven": [8,4],
+              "match_one": [4,4],
+              "match_two": [6,2]
+            },
+            "fouls": {
+              "match_three": [7,6],
+              "match_four": [14,10],
+              "match_five": [10,13],
+              "match_six": [14,14],
+              "match_seven": [12,12],
+              "match_one": [16,14],
+              "match_two": [8,13]
+            },
+            "HT_cards": {
+              "match_three": [0,0],
+              "match_four": [0,0],
+              "match_five": [0,0],
+              "match_six": [0,2],
+              "match_seven": [0,0],
+              "match_one": [0,1],
+              "match_two": [0,2]
+            },
+            "FT_cards": {
+              "match_three": [1,2],
+              "match_four": [2,2],
+              "match_five": [2,4],
+              "match_six": [2,4],
+              "match_seven": [1,1],
+              "match_one": [1,2],
+              "match_two": [1,4]
+            }
+          }
+        
+          
+          
+          }
+    }
+]
