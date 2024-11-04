@@ -13,8 +13,8 @@
    pip install numpy
    ```
    
-4. **test features**
-   eredivisie.json in the root folder is the test features. the python has been written to incorporate the data and export the predictions per each of the feature.
+4. **test fixtures**
+   eredivisie.json in the root folder is the test fixtures. the python has been written to incorporate the data and export the predictions per each of the feature.
 
    run the pred_one.python to see
 
